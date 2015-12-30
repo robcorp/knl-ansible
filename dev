@@ -1,0 +1,2 @@
+[wcs-servers]
+knlwcsdev11.knoll.com ansible_ssh_user=rhouser
