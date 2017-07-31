@@ -1,5 +1,5 @@
 [wcs-servers]
-knlwcsprd1.knoll.com ansible_ssh_user=knlwcsuser
+knlprdwcsapp1.knoll.com
 
 [apache-servers]
-knlwwwprd1.knoll.com ansible_ssh_user=knlwcsuser
+knlprdwcshttpz1.knoll.com
